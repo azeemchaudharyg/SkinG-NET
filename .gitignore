@@ -1,0 +1,15 @@
+# Ignore folders
+wandb/
+temp/
+__pycache__/
+dataset/
+data/
+node_modules/
+
+# Bytecode files
+*.logs
+*.pyc
+*.pyo
+
+# VS Code settings (optional)
+.vscode/
